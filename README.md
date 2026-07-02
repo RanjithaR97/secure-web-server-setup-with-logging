@@ -231,6 +231,7 @@ Running the shell script (./apache_setup.sh)
 Viewing setup_log.txt
 Apache default webpage in the browser
 Port 80 verification (ss -tulpn | grep :80)
-Learning Outcome
+
+#Learning Outcome
 
 Through this project, I gained practical experience in installing and managing an Apache web server on Linux. I learned how to automate server setup using Bash scripting, configure services with systemctl, secure a server using UFW firewall rules, log command execution for troubleshooting, and validate server functionality. This project strengthened my understanding of Linux system administration, shell scripting, web server deployment, and basic server security practices, which are essential skills for Linux Administrator, DevOps Engineer, and Cloud Engineer roles.
